@@ -27,32 +27,32 @@ A full-stack application that connects to a MySQL database, crawls schema metada
 
 ---
 📦 Clone the Repository
-git clone https://github.com/ravindra-singh0507/Vistora_assignment-Crawler.git
-cd Vistora_assignment-Crawler
+-git clone https://github.com/ravindra-singh0507/Vistora_assignment-Crawler.git
+-cd Vistora_assignment-Crawler
 🔧 Run Backend (Spring Boot)
-cd crawler-backend
-./mvnw spring-boot:run
+-cd crawler-backend
+-./mvnw spring-boot:run
 💻 Run Frontend (React + TypeScript)
-cd ../crawler-frontend
-npm install
-npm start
+-cd ../crawler-frontend
+-npm install
+-npm start
 
 📌 Technologies Used
-🔙 Backend
-Java 17
-Spring Boot 3
-JDBC
+Backend:
+Java 17,
+Spring Boot,
+JDBC,
 ZipOutputStream
 
-🔜 Frontend
-React 18
-TypeScript
-Tailwind CSS
+Frontend:
+React 18,
+TypeScript,
+Tailwind CSS,
 Axios
 
-🛢️ Database
+Database:
 MySQL 8
 
-🛠️ Build Tools
+Build Tools:
 Maven
 Vite
