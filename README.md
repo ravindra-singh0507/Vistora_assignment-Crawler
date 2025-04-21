@@ -28,7 +28,9 @@ A full-stack application that connects to a MySQL database, crawls schema metada
 ---
 📦 Clone the Repository
 -git clone https://github.com/ravindra-singh0507/Vistora_assignment-Crawler.git
+
 -cd Vistora_assignment-Crawler
+
 🔧 Run Backend (Spring Boot)
 -cd crawler-backend
 -./mvnw spring-boot:run
