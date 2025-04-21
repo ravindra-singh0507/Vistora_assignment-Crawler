@@ -1,4 +1,4 @@
-# Vistora_assignment-Crawler-
+# Vistora_assignment-Crawler
 A full-stack application that connects to a MySQL database, crawls schema metadata (tables, columns, relationships, etc.), dynamically generates model classes, provides RESTful APIs, and enables metadata exploration via a React + TypeScript frontend.
 
 ---
