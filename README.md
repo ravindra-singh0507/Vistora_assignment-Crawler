@@ -28,13 +28,13 @@ A full-stack application that connects to a MySQL database, crawls schema metada
 ---
 
 ## 🚀 Getting Started
-1) Clone the repository
+1) Clone the repository:
 git clone https://github.com/ravindra-singh0507/Vistora_assignment-Crawler
 cd Vistora_assignment-Crawler
-3) Run Backend (Spring Boot)
+2) Run Backend (Spring Boot):
 cd crawler-backend
 ./mvnw spring-boot:run
-4) Run frontend(React)
+3) Run frontend(React):
 cd crawler-frontend
 npm install
 npm start
